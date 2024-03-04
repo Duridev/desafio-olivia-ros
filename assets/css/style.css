@@ -53,3 +53,16 @@ body, body * {
 .card-body p {
     
 }
+
+.acerca {
+    max-width: 1000px;
+    margin-bottom: 3rem;
+}
+
+.acerca h1 {
+    margin: 6.6rem auto 1.8rem auto;
+}
+
+/* .acerca p {
+    margin-bottom: 4rem;
+} */
